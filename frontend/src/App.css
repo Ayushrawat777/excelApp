@@ -1,0 +1,9 @@
+.box{
+    margin: auto;
+    background: rgb(229, 231, 235);
+    width: 93%;
+    margin-top: 2rem;
+    border: 2px solid rgb(152, 148, 148);
+    padding-top: 10px;
+    box-shadow: 0px 0px 18px 8px #313030;
+}
